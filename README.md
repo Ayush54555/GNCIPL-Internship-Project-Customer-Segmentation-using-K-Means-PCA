@@ -1,0 +1,1 @@
+# GNCIPL-Internship-Project-Customer-Segmentation-using-K-Means-PCA
